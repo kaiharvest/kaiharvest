@@ -15,7 +15,7 @@ I'm building my skills step by step and documenting my journey here on GitHub �
 ### 🔭 Current Projects
 - Learning Java fundamental & simple CRUD programs  
 - Building small websites using HTML, CSS, JS, and PHP  
-- Starting Android app development  
+- Starting Android app development using React Native  
 
 ---
 
@@ -30,14 +30,14 @@ I'm building my skills step by step and documenting my journey here on GitHub �
 > Still improving — but here’s what I use often:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,androidstudio,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,androidstudio,git,github,gitlab" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 - Instagram: **@indraaa**
-- Email: **your-email@gmail.com**
+- Email: **indradwiprabowo27@gmail.com**
 
 ---
 
