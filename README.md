@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**kaiharvest/kaiharvest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Indra**, a student who is currently learning **Java**, **Web Development**, and **Mobile Development**.  
+I'm building my skills step by step and documenting my journey here on GitHub 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning
+- **Java** (OOP, basic CRUD, console apps)
+- **Web Development** (HTML, CSS, JavaScript, PHP, MySQL)
+- **Mobile Development** (basic Android)
+  
+---
+
+### 🔭 Current Projects
+- Learning Java fundamental & simple CRUD programs  
+- Building small websites using HTML, CSS, JS, and PHP  
+- Starting Android app development  
+
+---
+
+### 🎯 Goals
+- Become confident with **Java programming**
+- Build real projects for **web and mobile**
+- Become ready for internships as a **Junior Developer**
+
+---
+
+### 🛠 Skills
+> Still improving — but here’s what I use often:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,androidstudio,git,github" />
+</p>
+
+---
+
+### 📫 Contact Me
+- Instagram: **@indraaa**
+- Email: **your-email@gmail.com**
+
+---
+
+Thanks for visiting! 😊
