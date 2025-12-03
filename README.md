@@ -18,7 +18,6 @@ I'm building my skills step by step and documenting my journey here on GitHub ðŸ
 - Learning Java fundamental & simple CRUD programs  
 - Building small websites using HTML, CSS, JS, and PHP  
 - Starting Android app development using React Native  
-
 ---
 
 ### ðŸŽ¯ Goals
