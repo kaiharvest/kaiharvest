@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-![github](../assert/github.png)
+![github](assets/github.png)
 
 I'm **Indra**, a student who is currently learning **Java**, **Web Development**, and **Mobile Development**.  
 I'm building my skills step by step and documenting my journey here on GitHub 🚀
